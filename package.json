@@ -1,0 +1,27 @@
+{
+  "name": "react-native-epub",
+  "version": "0.0.1",
+  "description": "A React-Native component for reading epubs",
+  "main": "WebView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libraryforall/react-native-epub.git"
+  },
+  "keywords": [
+    "react-native",
+    "epub",
+    "webview"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libraryforall/react-native-epub/issues"
+  },
+  "homepage": "https://github.com/libraryforall/react-native-epub#readme",
+  "dependencies": {
+    "epubjs": "^0.2.11"
+  }
+}
